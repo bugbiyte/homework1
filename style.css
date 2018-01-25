@@ -1,0 +1,35 @@
+h1 {
+  color: #282121;
+  font-family: Handlee;
+
+}
+
+body {
+  background-color: #826d7c;
+}
+
+#first {
+  color: blue;
+}
+
+.second {
+  color: pink;
+  font-family: Poiret One;
+
+}
+
+h3 {
+  color: black;
+  font-family: Sacramento;
+  font-size: 28px;
+}
+
+h2 {
+  color: black;
+
+}
+
+p {
+  color: white;
+
+}
