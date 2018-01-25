@@ -1,6 +1,7 @@
 h1 {
   color: #282121;
   font-family: Handlee;
+  font-size: 50px;
 
 }
 
@@ -26,8 +27,12 @@ h3 {
 
 h2 {
   color: black;
-
 }
+
+/*img {
+  display: block;
+  margin: auto;
+}*/
 
 p {
   color: white;
